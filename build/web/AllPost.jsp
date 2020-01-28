@@ -1,10 +1,3 @@
-<%-- 
-    Document   : AllPost
-    Created on : Aug 8, 2015, 10:44:55 PM
-    Author     : Thang
---%>
-
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>
