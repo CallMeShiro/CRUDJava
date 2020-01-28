@@ -1,9 +1,3 @@
-<%-- 
-    Document   : ManagerAddNew
-    Created on : Aug 8, 2015, 10:38:33 PM
-    Author     : Thang
---%>
-
 <%@page import="dao.DataAccess"%>
 <%@page import="model.News"%>
 <%@page import="java.text.SimpleDateFormat"%>
