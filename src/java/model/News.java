@@ -1,15 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package model;
 
-/**
- *
- * @author Thang
- */
 public class News {
     private int id;
     private String title;
@@ -18,8 +8,6 @@ public class News {
     private String detail;
     private String category;
     private String image;
-    
-    //6 line
 
     public News(int id, String title, String date, String description, String detail, String category, String image) {
         this.id = id;
