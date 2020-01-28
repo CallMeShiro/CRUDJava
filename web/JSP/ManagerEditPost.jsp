@@ -1,9 +1,3 @@
-<%-- 
-    Document   : ManagerEditPost
-    Created on : Aug 8, 2015, 11:10:38 PM
-    Author     : Thang
---%>
-
 <%@page import="dao.DataAccess"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
